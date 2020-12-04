@@ -1,0 +1,45 @@
+/* Put your style information here! */
+
+.navbar {
+  font-weight: 100;
+}
+
+a {
+  color: #8437fa;
+}
+
+.bg-purple {
+  background-color: black !important;
+}
+
+.navbar a {
+  color: white;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.card-text {
+  color: white;
+}
+
+.card-body {
+  background-color: black;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+.collapse {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+.wireframes img {
+  max-width: 800px;
+}
