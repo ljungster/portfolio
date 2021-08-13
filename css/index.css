@@ -7,9 +7,9 @@
   font-weight: 100;
 }
 
-.hi {
-  padding-top: 100px;
-}
+/* .hi {
+  padding-top: 1rem;
+} */
 
 a {
   color: #8437fa;
@@ -72,3 +72,7 @@ body {
     filter: grayscale(0) brightness(1);
   }
 }
+/* 
+#parker-img {
+  margin-bottom: 1rem;
+} */
